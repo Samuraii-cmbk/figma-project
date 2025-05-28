@@ -1,0 +1,173 @@
+.ull{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+    font-size: 20px;
+}
+.ull1{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #F0F0F4;
+    height: 53px;
+    padding: 0;
+}
+.y1{
+    padding: 10px 13px;
+    background-color: #F0F0F4;
+}
+.y2{
+    width: 1150px;
+    border: 0;
+    background-color: #F0F0F4;
+}
+
+
+
+
+
+.t1{
+    width: 1170px;
+height: 30px;
+top: 1303px;
+left: 375px;
+font-family: Barlow;
+font-weight: 700;
+font-size: 25px;
+line-height: 100%;
+letter-spacing: 0%;
+padding: 0;
+}
+.ota{
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+    padding: 0;
+ 
+}
+.ota > li{
+       position: relative;
+}
+.ota > li > a{
+    color: black;
+    text-decoration: none;
+}
+a::after{
+    content: '';
+    width: 0;
+    height: 2px;
+    background-color: blue;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: all 0.5s linear;
+   
+    
+}
+.ota > li a:hover::after{
+    width: 100%;
+}
+.ota > li > a:hover{
+    width: 100%;
+    color: black;
+}
+.s1{
+    width: 250px;
+height: 403px;
+border: 0 solid black;
+margin-top: 20px;
+}
+.o1{
+    width: 271px;
+height: 403px;
+border-width: 1px;
+border: 1px solid gray;
+
+}
+.rasm{
+    width: 200px;
+height: 200px;
+margin: 30px auto;
+}
+.t2{
+height: 45px;
+font-family: SF Pro Display;
+font-weight: 400;
+font-size: 18px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+margin: 0;
+
+}
+.t3{
+height: 20px;
+font-family: Barlow;
+font-weight: 700;
+font-size: 30px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 8px;
+}
+.savat{
+    width: 60px;
+height: 40px;
+border-top-left-radius: 10px;
+background-color:#1C62CD;
+border: 0;
+margin-left: 210px;
+margin-top: 15px;
+}
+.rasm2{
+    width: 30px;
+height: 22.5px;
+
+}
+.t4{
+    height: 20px;
+font-family: Barlow;
+font-weight: 700;
+font-size: 20px;
+text-align: center;
+margin-top: -5px;
+
+}
+.tugma{
+    width: 252px;
+height: 50px;
+border: 0;
+background-color: #F0F0F4;
+color: #2F3035;
+margin-left: 490px;
+margin-top: 30px;
+}
+.o1:hover{
+box-shadow: 0px 0px 20px gray;
+    color: blue;
+}
+.tugma:hover{
+box-shadow: 0px 0px 20px gray;
+}
+.surat{
+    width:100%;
+}
+.tugma2 {
+    width: 313px;
+    height: 63px;
+    border: 0;
+    color: #2F3035;
+    background-color: white;
+    position: absolute;
+    top: 60px;
+    left: 859px;
+    font-size: 25px;
+}
+.tugma2:hover{
+box-shadow: 0px 0px 20px gray;
+}
