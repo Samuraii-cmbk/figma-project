@@ -128,14 +128,14 @@ box-shadow: 0px 0px 20px gray;
     width:100%;
 }
 .tugma2 {
-    width: 286px;
-    height: 57px;
+    width: 313px;
+    height: 63px;
     border: 0;
     color: #2F3035;
     background-color: white;
     position: absolute;
-    top: 91px;
-    left: 811px;
+    top: 60px;
+    left: 859px;
     font-size: 25px;
 }
 .tugma2:hover{
